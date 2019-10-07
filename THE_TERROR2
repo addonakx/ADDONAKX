@@ -1,5 +1,5 @@
 <item>
-<title>1 A Sparrow in a Swallow’s Nest</title>
+<title>1 A Sparrow in a Swallows Nest</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12oddregjOhsTsOP1W5LohcOzjcvNxNm6/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w227_and_h127_bestv2/q21tU1PObxx7GLCfSsqPJHgdkg6.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/j8lakGwVuPonS2wKNePFy35QbT.jpg</fanart>
@@ -10,4 +10,14 @@ Chester must grapple with what kind of a man he wants to be, all while someone w
 </info>
 </item>
 
+<item>
+<title>2 All the Demons Are Still in Hell</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12oddregjOhsTsOP1W5LohcOzjcvNxNm6/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w227_and_h127_bestv2/a4ZsJwHXVsnXJKOVk0WdA3QldIx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j8lakGwVuPonS2wKNePFy35QbT.jpg</fanart>
+<info>
+After Pearl Harbor, the Terminal Islanders are evicted from their homes and must find shelter elsewhere. While Henry, separated from his family, 
+faces injustice at the hands of the government, Chester engages in a paranoid search for answers.
+</info>
+</item>
 
