@@ -9,7 +9,7 @@ The season premiere continues the apocalyptic events of last season as Trigon se
 </item>
 
 <item>
-<title>1 Rose</title>
+<title>2 Rose</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12oddregjOhsTsOP1W5LohcOzjcvNxNm6/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w227_and_h127_bestv2/uye6ynx3SD5qm4d3UN9QClBbgRH.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
@@ -19,7 +19,7 @@ While Dick trains the next generation of Titans, Donna and Kory track down a rog
 </item>
 
 <item>
-<title>1 Ghosts</title>
+<title>3 Ghosts</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12oddregjOhsTsOP1W5LohcOzjcvNxNm6/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w227_and_h127_bestv2/9zp9M4wgmD0ocV5IcFEJW7CcXEj.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
@@ -28,4 +28,32 @@ The old Titans reluctantly return to Titans Tower to strategize against an old e
 </info>
 </item>
 
+<item>
+<title>4 Aqualad</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12oddregjOhsTsOP1W5LohcOzjcvNxNm6/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w227_and_h127_bestv2/apSEtp402x7p4uWBTTU5iKwE9dM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
+<info>
+Four years ago, Dick, Donna, Hank & Dawn formed the Titans with Garth aka Aqualad. But the team is tested with the arrival of a new villain.
+</info>
+</item>
 
+<item>
+<title>5 Deathstroke</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12oddregjOhsTsOP1W5LohcOzjcvNxNm6/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w227_and_h127_bestv2/AwFgzDndYgxUmkqG0g0MMpu44Ep.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
+<info>
+With the team in upheaval, the Titans do everything in their power to save Jason’s life. But when Deathstroke demands they turn over Rose, the dilemma threatens to tear the team apart.
+</info>
+</item>
+
+<item>
+<title>6 Conner</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12oddregjOhsTsOP1W5LohcOzjcvNxNm6/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w227_and_h127_bestv2/apSEtp402x7p4uWBTTU5iKwE9dM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7DE9KC9GyY2TUJMnSPgYJG3rafw.jpg</fanart>
+<info>
+Conner Kent and Krypto escape from Cadmus Labs. His search for the truth about his past leads him to Lionel Luthor and genetic scientist Dr. Eve Watson.
+</info>
+</item>
