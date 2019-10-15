@@ -1,5 +1,16 @@
 <channels>
 <channel>
+<name>BLACK MIRROR</name>
+<thumbnail>https://image.tmdb.org/t/p/original/vGrS1mzlSHQQdOcmqH1zlE2iViY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonakx/ADDONAKX/master/BLACK_MIRROR</externallink>
+<fanart>https://image.tmdb.org/t/p/original/2ScGrTZT5tlZgL4RBzUEzK4C0GZ.jpg</fanart>
+<info>
+Esta série antológica de ficção científica explora um futuro próximo onde a natureza humana e a tecnologia de ponta entram em um perigoso conflito.
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>THE TERROR</name>
 <thumbnail>https://image.tmdb.org/t/p/original/j8lakGwVuPonS2wKNePFy35QbT.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonakx/ADDONAKX/master/THE_TERROR</externallink>
