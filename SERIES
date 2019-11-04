@@ -26,6 +26,18 @@ habilidade única que permite ao usuário voltar no tempo ao morrer. Usando esse
 
 <channels>
 <channel>
+<name>Silicon Valley (2014)</name>
+<thumbnail>https://image.tmdb.org/t/p/original/uVccw0ypOFErjYSTNJ7eJmRt50T.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonakx/ADDONAKX/master/SILICON</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ndhrAoDsKSGlrAHEV5bDZ3JOqYI.jpg</fanart>
+<info>
+A aclamada comédia original da HBO promete uma divertida conclusão para nossos queridos heróis tecnológicos, enquanto os garotos da Pied Piper lidam com o estresse de administrar uma organização em crescimento.
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>THE TERROR</name>
 <thumbnail>https://image.tmdb.org/t/p/original/j8lakGwVuPonS2wKNePFy35QbT.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonakx/ADDONAKX/master/THE_TERROR</externallink>
