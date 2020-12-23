@@ -24,13 +24,11 @@ Após um século de isolamento, a Federação e o Império Klingon entram em gue
 
 <channels>
 <channel>
-<name>Silicon Valley (2014)</name>
-<thumbnail>https://image.tmdb.org/t/p/original/uVccw0ypOFErjYSTNJ7eJmRt50T.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonakx/ADDONAKX/master/SILICON</externallink>
-<fanart>https://image.tmdb.org/t/p/original/ndhrAoDsKSGlrAHEV5bDZ3JOqYI.jpg</fanart>
-<info>
-A aclamada comédia original da HBO promete uma divertida conclusão para nossos queridos heróis tecnológicos, enquanto os garotos da Pied Piper lidam com o estresse de administrar uma organização em crescimento.
-</info>
+<name>[COLOR cadetblue][B]Young Sheldon (2017)[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzHsG1Sb6BVK8f6VmEcXFlXHLaF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/ko0Gynw9pMRdcScCjwGYfhJlfWh.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Young%20Sheldon</externallink>
+<info>Para Sheldon, infância não é nada fácil. Um gênio da matemática e das ciências, enfrenta dificuldades no cotidiano e uma família 'normal' que busca uma forma de lidar com ele.</info>
 </channel>
 </channels>
 
