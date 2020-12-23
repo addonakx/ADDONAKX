@@ -34,12 +34,11 @@ Após um século de isolamento, a Federação e o Império Klingon entram em gue
 
 <channels>
 <channel>
-<name>THE TERROR</name>
-<thumbnail>https://image.tmdb.org/t/p/original/j8lakGwVuPonS2wKNePFy35QbT.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonakx/ADDONAKX/master/THE_TERROR</externallink>
-<fanart>https://image.tmdb.org/t/p/original/ssyZgYScV9eClakZDwu4sPrgMmy.jpg</fanart>
-<info>
-A chilling anthology series featuring stories of people in terrifying situations inspired by true historical events.
+<name>[COLOR cadetblue][B]Dois Homens e Meio (2003)[/B][/COLOR][COLOR yellow][B][/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/27cshLy9anL9G0g6tBQjWkPACx5.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Dois%20Homens%20e%20Meio%20(2003)%20link</externallink>
+<info>A vida mulherenga do solteirão Charlie é afetada quando seu irmão divorciado e seu sobrinho de língua afiada vão morar com ele.
 </info>
 </channel>
 </channels>
