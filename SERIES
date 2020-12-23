@@ -1,11 +1,12 @@
 <channels>
 <channel>
-<name>BLACK MIRROR</name>
-<thumbnail>https://image.tmdb.org/t/p/original/vGrS1mzlSHQQdOcmqH1zlE2iViY.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonakx/ADDONAKX/master/BLACK_MIRROR</externallink>
-<fanart>https://image.tmdb.org/t/p/original/2ScGrTZT5tlZgL4RBzUEzK4C0GZ.jpg</fanart>
+<name>O Mandaloriano</name>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/7CQuB71u4fbZzRARJMBLusFd5eL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonakx/ADDONAKX/master/mandaloriano</externallink>
+<fanart>https://image.tmdb.org/t/p/original/lp4Fly8X48fnBGp9FY9guolm2HJ.jpg</fanart>
 <info>
-Esta série antológica de ficção científica explora um futuro próximo onde a natureza humana e a tecnologia de ponta entram em um perigoso conflito.
+A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.
+</info>
 </channel>
 </channels>
 
