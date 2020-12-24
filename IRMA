@@ -1,21 +1,19 @@
 <channels>
-</channels><channel>
+<channel>
 <name>[COLOR deeppink][B]1  Temporada[/B][/COLOR]</name>****************************
- 
- 
-<item>
+ <item>
 <title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97b1daa291119e4e0c8d2a028eb2c9950bc98bba&dn=%7BWWW.BLUDV.COM%7D%20Irm%C3%A3os%20%C3%A0%20Obra%202011%20-%201%C2%AA%20Temporada%20Completa%20%28720p%29%20Acesse%20O%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2720%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Fglotorrents.pw%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.piratepublic.com%3A1337%2Fannounce</link>
 <thumbnail>https://3.bp.blogspot.com/-JVnhr6Ov2c8/W4DYXREXcVI/AAAAAAAAQAY/P3FH0h4mnfomWn-oMSqd5z6LmiO4kYPyQCLcBGAs/s1600/Irm%25C3%25A3os%2Ba%2BObra%2B1%2Btemporada%2Btorrent%2Bdownload%2Bdublada%2Bcompleta.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
+</channel>
+</channels>
 
 <channels>
-</channels><channel>
+<channel>
 <name>[COLOR deeppink][B]2  Temporada[/B][/COLOR]</name>****************************
- 
- 
 <item>
 <title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95bf207ae59631a3cdef78b88a5b90605f3380c7&dn=%7BWWW.BLUDV.COM%7D%20Irm%C3%A3os%20%C3%A0%20Obra%202012%20-%202%C2%AA%20Temporada%20Completa%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2740%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Fglotorrents.pw%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.piratepublic.com%3A1337%2Fannounce</link>
@@ -23,6 +21,5 @@
 <fanart></fanart>
 <info></info>
 </item>
-
-<channels>
-</channels><channel>
+</channel>
+</channels>
